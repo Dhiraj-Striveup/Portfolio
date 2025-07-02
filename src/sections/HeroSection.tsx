@@ -3,7 +3,7 @@
 import { motion } from "framer-motion";
 import Image from "next/image";
 import Link from "next/link";
-import image from "@/assets/Portfolio-img.png";
+import image from "@/assets/Portfolio-img.jpg";
 import { Typewriter } from "react-simple-typewriter";
 
 
