@@ -119,7 +119,7 @@ const ContactModal: React.FC<Props> = ({ onClose }) => {
                   <h3 className="text-lg font-semibold text-white">Email</h3>
                 </div>
                 <p  onClick={handleCopy} className="text-sm font-medium text-white">
-                  {copied ? 'Copied!' : 'hello@example.com'}
+                  {copied ? 'Copied!' : 'dhiraj.striveup@gmail.com'}
                 </p>
                 <p className="mt-1 text-sm text-white/60">
                   Send me an email directly
