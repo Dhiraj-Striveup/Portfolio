@@ -226,7 +226,7 @@ const ContactModal: React.FC<Props> = ({ onClose }) => {
             </form>
           )}
 
-          <div className="mt-8 rounded-md bg-green-800/20 px-1  md:px-4 py-3 text-center">
+          <div className="mt-8 rounded-md bg-green-800/20  md:px-4 py-3 text-center">
             <span className="flex items-center justify-center gap-2 text-sm font-medium text-green-400">
               <span className="h-2 w-2 animate-pulse rounded-full bg-green-400" />
               Currently available for new opportunities
