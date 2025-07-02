@@ -59,7 +59,7 @@ const AboutMe = () => {
             animate={isInView ? { opacity: 1, y: 0 } : { opacity: 0, y: 20 }}
             transition={{ duration: 0.8, delay: 0.7 }}
           >
-            Aa ffhfhfhfh passionate <strong>Developer</strong>  with over <strong>10+ years of experience</strong> building high-performance web applications using <strong>PHP</strong>, <strong>WordPress</strong>, <strong>Laravel</strong>, and <strong>.NET</strong>. I specialize in creating scalable, secure, and user-centric solutions—from dynamic CMS platforms and API integrations to enterprise-grade systems.
+            A passionate <strong>Developer</strong>  with over <strong>10+ years of experience</strong> building high-performance web applications using <strong>PHP</strong>, <strong>WordPress</strong>, <strong>Laravel</strong>, and <strong>.NET</strong>. I specialize in creating scalable, secure, and user-centric solutions—from dynamic CMS platforms and API integrations to enterprise-grade systems.
           </motion.p>
 
           <motion.p
