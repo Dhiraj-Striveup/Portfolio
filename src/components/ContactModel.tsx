@@ -11,7 +11,7 @@ const ContactModal: React.FC<Props> = ({ onClose }) => {
      const [copied, setCopied] = useState(false)
 
   const handleCopy = () => {
-    navigator.clipboard.writeText('hello@example.com')
+    navigator.clipboard.writeText('dhiraj.striveup@gmail.com')
     setCopied(true)
     setTimeout(() => setCopied(false), 9000)
   }
