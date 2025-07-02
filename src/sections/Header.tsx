@@ -46,7 +46,7 @@ export const Header = () => {
       <header className="fixed top-3 w-full z-30 flex justify-center">
         <nav
           className="flex items-center gap-4 px-4  w-full mx-4
-                     border border-white/15 bg-white/10 backdrop-blur-sm
+                      backdrop-blur-sm
                      rounded-full md:max-w-4xl"
         >
           
