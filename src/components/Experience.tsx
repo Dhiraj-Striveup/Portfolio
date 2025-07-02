@@ -75,7 +75,7 @@ export default function Experience() {
         <div className="space-y-24">
           <ExperienceTimeline>
           {experiences.map((exp, i) => (
-            <ExperienceCard key={i} experience={exp} isLast={i === experiences.length - 1} />
+            <ExperienceCard key={i} experience={exp}  />
           ))}
           </ExperienceTimeline>
         </div>
