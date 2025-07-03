@@ -66,7 +66,7 @@ export const HeroSection = () => {
           transition={{ duration: 0.6, delay: 0.3 }}
           className=" sm:max-w-[16rem] md:max-w-[34rem] mx-auto text-center"
         >
-          <h1 className="font-sans text-2xl leading-[38px] md:leading-[50px] sm:mt-4 md:mt-8 tracking-wide  md:text-5xl">
+          <h1 className=" sm:min-h-[80px] md:min-h-[100px] font-sans text-2xl leading-[38px] md:leading-[50px] sm:mt-4 md:mt-8 tracking-wide  md:text-5xl">
              <Typewriter
                       words={[" Crafting Solutions That Speak for You"]}
                       loop={false}
