@@ -8,7 +8,7 @@ const experiences = [
     role: 'Senior Developer',
     location: 'Mohali, India',
     remote: false,
-    time: 'JAN 2025 ',
+    time: 'JAN 2015 - JAN 2025 ',
     highlights: [
       'Architected enterprise-scale, <strong>CMS-driven reusable pagebuilder blocks</strong> using <strong>Sanity</strong> and <strong>Contentful</strong>, enabling 40% faster content delivery.',
       'Built high-performance apps with <strong>Next.js</strong>, <strong>React</strong>, <strong>Tailwind CSS</strong>, improving <strong>Core Web Vitals</strong> by 20%.',
@@ -32,11 +32,11 @@ const experiences = [
     ],
   },
     {
-    company: 'KindleBit',
+    company: 'CODSYS',
     role: 'Senior Developer',
     location: 'Mohali, India',
     remote: false,
-    time: 'JAN 2025 ',
+    time: 'JAN 2010- May 2015 ',
     highlights: [
       'Architected enterprise-scale, <strong>CMS-driven reusable pagebuilder blocks</strong> using <strong>Sanity</strong> and <strong>Contentful</strong>, enabling 40% faster content delivery.',
       'Built high-performance apps with <strong>Next.js</strong>, <strong>React</strong>, <strong>Tailwind CSS</strong>, improving <strong>Core Web Vitals</strong> by 20%.',
