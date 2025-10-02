@@ -77,15 +77,7 @@ const ContactModal: React.FC<Props> = ({ onClose }) => {
           <div className="mx-auto mb-6 h-1.5 w-20 rounded-full bg-white/10" />
 
         
-          <div className="mb-8 flex items-center justify-center gap-6 text-white/60">
-            <a
-              href="https://linkedin.com/in/your-profile"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <Linkedin className="h-5 w-5 hover:text-cyan-400 transition" />
-            </a>
-          </div>
+          
 
          
           <div className="mb-6 grid grid-cols-2 gap-4">
