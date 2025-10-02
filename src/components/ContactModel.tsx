@@ -3,7 +3,7 @@ import React, {  useState } from "react";
 import { useFormik } from "formik";
 import * as Yup from "yup";
 import { AnimatePresence, motion } from "framer-motion";
-import { Mail, Linkedin, X as Close } from "lucide-react";
+import { Mail,  X as Close } from "lucide-react";
 
 type Props = { onClose: () => void };
 
